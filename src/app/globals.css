@@ -109,6 +109,7 @@ body {
   transform: translateY(0);
 }
 #hero-section {
+  opacity: 0.9;
   margin-top: 77vh;
   width: 100vw;
   padding: 50px 0;
